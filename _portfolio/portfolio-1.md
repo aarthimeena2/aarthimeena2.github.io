@@ -3,5 +3,109 @@ title: "Portfolio item number 1"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Analytics Manager - Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            padding: 30px;
+            text-align: center;
+        }
+        .container {
+            max-width: 1000px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            text-align: left;
+        }
+        h2, h3 {
+            color: #333;
+            text-align: center;
+        }
+        .badges img {
+            margin: 5px;
+        }
+    </style>
+</head>
+<body>
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<div class="container">
+    <h2>🚀 About Me</h2>
+    <p>Results-driven <strong>Product Analytics Manager</strong> with <strong>7+ years of experience</strong> in 
+        <strong>product analytics, business analysis, and project management</strong> across 
+        technology, e-commerce, and education sectors. Passionate about <strong>data-driven 
+        decision-making</strong>, optimizing <strong>user experience</strong>, and enhancing 
+        <strong>operational efficiency</strong>.
+    </p>
+
+    <h3>💡 Key Expertise</h3>
+    <ul>
+        <li>✔ Product & Business Analytics 📊</li>
+        <li>✔ Data-Driven Product Strategy 📈</li>
+        <li>✔ Cross-Functional Collaboration 🤝</li>
+        <li>✔ Process Optimization ⚡</li>
+        <li>✔ A/B Testing & Experimentation 🔬</li>
+    </ul>
+
+    <h3>🛠️ Tools & Technologies</h3>
+
+    <h4>📌 Product Management & Analytics</h4>
+    <div class="badges">
+        <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=google-analytics&logoColor=white">
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white">
+        <img src="https://img.shields.io/badge/A%2FB%20Testing-000000?style=flat&logo=testing-library&logoColor=white">
+    </div>
+
+    <h4>📌 Project Management & Business Analysis</h4>
+    <div class="badges">
+        <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white">
+        <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white">
+        <img src="https://img.shields.io/badge/Roadmapping-FF6F00?style=flat&logo=trello&logoColor=white">
+    </div>
+
+    <h4>📌 Data Analysis & CRM</h4>
+    <div class="badges">
+        <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white">
+        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=white">
+        <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white">
+    </div>
+
+    <h3>🏆 Key Achievements</h3>
+    <ul>
+        <li>✅ <strong>Improved Reporting Accuracy:</strong> Enhanced Tableau & Power BI dashboards, boosting KPI monitoring accuracy by <strong>25%</strong>.</li>
+        <li>✅ <strong>Sales Forecast Optimization:</strong> Leveraged Salesforce data to refine sales projections, increasing performance by <strong>15%</strong>.</li>
+        <li>✅ <strong>Operational Efficiency Boost:</strong> Automated key workflows, reducing manual efforts by <strong>20%</strong>.</li>
+        <li>✅ <strong>A/B Testing Success:</strong> Increased conversion rates by <strong>15%</strong> through data-driven experiments.</li>
+        <li>✅ <strong>Project Delivery Enhancement:</strong> Identified process inefficiencies, improving project timelines by <strong>15%</strong>.</li>
+    </ul>
+
+    <h3>🎯 Currently:</h3>
+    <p>Advancing my expertise in <strong>Product Management</strong> through the <strong>Udacity Product Manager Nanodegree</strong> 🎓.</p>
+
+    <h3>📌 Certifications</h3>
+    <div class="badges">
+        <img src="https://img.shields.io/badge/PMI-02569B?style=flat&logo=pmi&logoColor=white"> PMP
+        <img src="https://img.shields.io/badge/Google%20Project%20Management%20Certificate-4285F4?style=flat&logo=google&logoColor=white"> Google Project Management Certificate
+    </div>
+
+    <h3>📬 Contact Me</h3>
+    <p>
+        <a href="https://www.linkedin.com/in/aarthimeena/">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
+        </a>
+        <a href="mailto:rtmeenaa22@gmail.com">
+            <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white">
+        </a>
+    </p>
+
+</div>
+
+</body>
+</html>
